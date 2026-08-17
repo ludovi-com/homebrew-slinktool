@@ -4,12 +4,12 @@
 
 `brew install ludovico/slinktool/<formula>`
 
-Or `brew tap ludovico/slinktool` and then `brew install <formula>`.
+Or `brew tap ludovi-com/slinktool` and then `brew install <formula>`.
 
 Or, in a `brew bundle` `Brewfile`:
 
 ```ruby
-tap "ludovico/slinktool"
+tap "ludovi-com/slinktool"
 brew "<formula>"
 ```
 
